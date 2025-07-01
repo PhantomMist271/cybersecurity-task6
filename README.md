@@ -46,7 +46,8 @@ A method where attackers use a list of common passwords and phrases. Simple and 
 
 ## 📁 Files Included:
 - `README.md` (this file)
-- `/screenshots/` folder containing 5 test results
+- `/screenshots/` folder containing nothing
+  
 
 ---
 
